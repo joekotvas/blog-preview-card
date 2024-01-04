@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://blog-preview-card-joekotvas.netlify.com)
+- Solution URL: [Github Repo](https://github.com/joekotvas/blog-preview-card)
 - Live Site URL: [Blog Preview Component](https://blog-preview-card-joekotvas.netlify.com)
 
 ## Built with

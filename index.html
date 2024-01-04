@@ -62,7 +62,7 @@
       font-size: 0.875rem;
     }
 
-    h2 a {
+    h1 a, h2 a {
       text-decoration: none;
       color: #111;
     }
@@ -75,6 +75,7 @@
       background: #F4D04E;
       border-radius: .25rem;
       padding: 0.25rem 0.75rem;
+      width: -moz-fit-content;
       width: fit-content;
       display: block;
       margin-top: 1.5rem;
@@ -118,6 +119,7 @@
   </style>
 </head>
 <body>
+  <main role="main">
 <article class="card">
   <a href="#">
     <img src="./assets/images/illustration-article.svg" alt="Illustration">
@@ -132,11 +134,11 @@
     </span>
   </aside>
 
-  <h2 class="article-title">
+  <h1 class="article-title">
     <a href="#">
       HTML & CSS foundations
     </a>
-  </h2>
+  </h1>
 <p class="article-description">
   These languages are the backbone of every website, defining structure, content, and presentation.
 </p>
@@ -152,5 +154,6 @@
  </aside>
   
 </article>
+  </main>
 </body>
 </html>
